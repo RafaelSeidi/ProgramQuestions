@@ -1,0 +1,28 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Perguntas\Perguntas\bin\Debug\Perguntas.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Perguntas\Perguntas\bin\Debug\Perguntas.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Perguntas\Perguntas\bin\Debug\Perguntas.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Perguntas\Perguntas\obj\Debug\Perguntas.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Perguntas\Perguntas\obj\Debug\Perguntas.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Perguntas\Perguntas\obj\Debug\Perguntas.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\Perguntas\Perguntas\obj\Debug\Perguntas.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\Perguntas\Perguntas\obj\Debug\Perguntas.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Perguntas\Perguntas\obj\Debug\Perguntas.pdb
+F:\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\bin\Debug\Perguntas.exe.config
+F:\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.exe
+F:\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.pdb
+F:\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\bin\Debug\Perguntas.exe
+F:\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\bin\Debug\Perguntas.pdb
+F:\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.csprojResolveAssemblyReference.cache
+F:\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.Form1.resources
+F:\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.Properties.Resources.resources
+F:\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\bin\Debug\Perguntas.exe.config
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\bin\Debug\Perguntas.exe
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\bin\Debug\Perguntas.pdb
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.Form1.resources
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.Properties.Resources.resources
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.exe
+C:\Users\User\Desktop\ETEC 1\Trabalhos Etec\TPA\C#\Perguntas\Perguntas\obj\Debug\Perguntas.pdb
